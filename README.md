@@ -13,3 +13,28 @@
 7. update the main.py
 8. update the app.py
 
+#How to Run ?
+
+## Steps:
+Clone the repository
+'''
+https://github.com/arinjoy21PEC/text_summarizer
+'''
+
+#STEP 01- Create a conda environment after opening the repository
+'''
+conda create -n summary python=3.8 -y
+'''
+'''
+conda activate summary
+'''
+#STEP 02- install the requirements
+'''
+pip install -r requirements.txt
+'''
+'''
+# Finally run the following command
+python app.py
+'''
+Now,
+open up you local host and port
